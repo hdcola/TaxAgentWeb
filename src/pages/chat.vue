@@ -1,7 +1,7 @@
 <template>
-  <div class="chat-page">
-    <Chat />
-  </div>
+<v-container class="chat-page fill-height pa-0" fluid>    
+  <Chat />
+  </v-container>
 </template>
 
   <script setup lang="ts">
